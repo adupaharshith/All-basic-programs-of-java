@@ -1,0 +1,14 @@
+class Anagram {
+String s1="Harshith";
+String s2="Karshith";
+public static void main(String args[]){
+int check(string s)
+{
+if (s1.length()==s2.length())
+{
+char ch[]=s.toCharArray()
+s.sort();
+
+}
+
+}}
